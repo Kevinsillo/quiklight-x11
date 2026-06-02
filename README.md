@@ -4,7 +4,7 @@ An ambilight driver for the **Robobloq Quiklight** USB LED strip on Linux X11 de
 
 Captures your screen edges in real time and syncs the colors to the LED strip — with no cloud, no Electron, no browser stack.
 
-> **Wayland user?** Check out [hypr-quicklight](https://github.com/jgferrer/hypr-quicklight), which this project is based on for protocol research.
+> **Wayland user?** Check out [hypr-quicklight](https://github.com/shim80/hypr-quicklight), which this project is based on for protocol research.
 
 ---
 
@@ -35,7 +35,7 @@ Sold as **Robobloq Quiklight** and variants. The default layout assumes **63 LED
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/quiklight-x11.git
+git clone https://github.com/kevinsillo/quiklight-x11.git
 cd quiklight-x11
 chmod +x install.sh
 ./install.sh
