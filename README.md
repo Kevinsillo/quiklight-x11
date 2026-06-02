@@ -127,7 +127,7 @@ cd quiklight-x11
 5. Encodes the colors using the device's proprietary `RB`/`SC` HID protocol
 6. Writes 65-byte HID reports to `/dev/hidrawN`
 
-The protocol was reverse-engineered from [hypr-quicklight](https://github.com/jgferrer/hypr-quicklight).
+The protocol was reverse-engineered from [hypr-quicklight](https://github.com/shim80/hypr-quicklight).
 
 ---
 
