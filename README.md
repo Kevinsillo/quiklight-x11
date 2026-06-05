@@ -2,7 +2,7 @@
 
 An ambilight driver for the **Robobloq Quiklight** USB LED strip on Linux X11 desktops.
 
-Captures your screen edges in real time and syncs the colors to the LED strip — with no cloud, no Electron, no browser stack. This is a Rust rewrite of [quiklight-x11](https://github.com/kevinsillo/quiklight-x11) (Python), aimed at lower latency and lower CPU usage.
+Captures your screen edges in real time and syncs the colors to the LED strip — with no cloud, no Electron, no browser stack. This is a Rust rewrite of [quiklight-x11 [python-version]](https://github.com/Kevinsillo/quiklight-x11/tree/python-version) (Python), aimed at lower latency and lower CPU usage.
 
 > **Wayland user?** Check out [hypr-quicklight](https://github.com/shim80/hypr-quicklight), which this project is based on for protocol research.
 
