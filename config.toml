@@ -1,0 +1,18 @@
+# Quiklight — LED strip layout (Robobloq Quiklight default: 63 LEDs)
+top   = 29
+right = 17
+left  = 17
+
+# Screen capture resolution — lower = faster, less precise
+cap_w  = 80
+cap_h  = 45
+border = 3
+
+# Performance
+fps = 60
+
+# Color processing
+brightness = 200   # global brightness sent to device (0–255)
+smoothing  = 0.15  # temporal smoothing (0.0 = off, 0.95 = very smooth)
+saturation = 1.4   # color saturation boost (1.0 = none, 2.0 = vivid)
+gamma      = 1.2   # gamma correction (1.0 = linear)

@@ -1,5 +1,11 @@
-.venv/
-__pycache__/
-*.pyc
-*.pyo
+# Rust build artifacts
+/target/
+Cargo.lock
+
+# rustfmt backups
+**/*.rs.bk
+
+# OS noise
 .DS_Store
+
+# Note: Cargo.lock is committed on purpose (this is a binary app, not a library)
